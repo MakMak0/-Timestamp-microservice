@@ -1,0 +1,25 @@
+* {
+  color: #414141;
+}
+
+body {
+  margin: 20px 60px 20px 60px;
+}
+
+.div-heading {
+  color: red;
+}
+
+.div-quote {
+  size: 100px;
+  border: 5px gainsboro;
+  border-style: solid;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+
+mark{
+  color: red;
+  background-color: mistyrose;
+}
