@@ -57,7 +57,7 @@ function monthNumberToString (month){
 }
 
 app.get("/", (request, response) => {
-  response.sendFile(__dirname + '/views/index.html');
+  response.sendFile(__dirname + '/index.html');
 });
 
 app.get("/:a", (request, response) => {
